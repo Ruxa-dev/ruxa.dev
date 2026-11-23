@@ -1,0 +1,8 @@
+:root {
+  --brand-primary: #101426;
+  --brand-accent: #FFC53D;
+  --brand-bg: #F4F5F8;
+  --brand-text: #101426;
+  --font-heading: 'IBM Plex Mono', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'IBM Plex Mono', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
